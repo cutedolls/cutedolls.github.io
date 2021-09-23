@@ -1,0 +1,72 @@
+body, html {
+    height: 2200px;
+}
+
+.navbar {
+    box-shadow: 0 0 5px darkred;
+}
+
+.navbar .navbar-brand:hover {
+    color: darkorange;
+}
+
+.logoJum {
+    margin-top: 100px;
+}
+
+/*.logoJum h1 {*/
+/*    text-shadow: 0 0 5px orangered;*/
+/*}*/
+
+.myLogoImg {
+    width: 100%;
+    border-radius: 3%;
+    /*box-shadow: 0 0 10px black;*/
+}
+
+.alert {
+    border-left: 5px solid orangered;
+    box-shadow: 0 0 5px black;
+}
+
+.myJum2 {
+    background-color: rgba(10, 10, 10, .8);
+    color: white;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+    box-shadow: 0 0 10px darkblue;
+    margin: 15px 0;
+}
+
+img {
+    box-shadow: 0 0 10px black;
+}
+
+
+.footer {
+    background-color: rgba(0, 0, 0, .9);
+    height: 200px;
+    padding: 20px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgba(62, 142, 208, 1);
+    text-align: center;
+    box-shadow: 0 0 5px darkred;
+}
+
+.jumbotron {
+    box-shadow: 0 0 3px black;
+}
+
+
+
+
+
+
+
+
+
