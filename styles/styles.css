@@ -63,7 +63,25 @@ img {
 }
 
 .col-sm-6 {
-    margin-top: 30px;
+    margin-top: 50px;
+}
+
+.image1, .image2 {
+    margin-bottom: 10px;
+}
+
+.image2{
+    display: none;
+}
+
+@media only screen and (max-width: 500px){
+.image1{
+    display: none;
+}
+
+    .image2{
+        display: block;
+    }
 }
 
 
